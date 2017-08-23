@@ -1,0 +1,66 @@
+1. I have wanted to take this course for a long time, as I have a strong
+interest in data vis & web dev tools such as d3.js.
+
+However, the main reason I took this course is to solve a dilemma that
+hits close to home. For the final project in MATH 363, I studied the correlation
+between narcotic seizures and immigration in 31 Iranian provinces, and created
+a simple data visualization to display the regression line via R.
+
+Unfortunately, this visualization did not meet my expectations. It did not
+convey the severity of the drug epidemic in Iran, as I wish it would have. It is
+my hope that the concepts covered in this course, specifically d3.js, will help
+me to create an interactive visualization displaying the relationship between narcotic
+seizures and variables such as population, immigrant, income, etc., in each
+Ostan of Iran.
+
+2. I think/hope I will learn about interactive visualizations, linked views,
+web maps, d3.js, and the fundamental concepts beneath data visualization.
+
+3. Java, Python, Javascript, PHP.
+
+4. Java.
+
+5. Yes, I created a data visualization based on data from the Statistical Center
+of Iran (https://www.amar.org.ir/english/Iran-Statistical-Yearbook). It was a simple
+chart displaying a regression line, to showcase the correlation between narcotic
+seizures and the immigration rate for each province of Iran (did my best
+to account for extraneous variables).
+
+6. The largest data set I have had to deal with is from the Iranian Statistical
+Yearbook; specifically, the Population and the Judicial Affairs sections. I used
+data and tables that contained for each of the 31 Ostans: (1) the amount of
+narcotics seized (narcotics were divided amongst several categories, such as
+Heroin or Opium), and (2) the immigration to that Ostan. The data came from the
+1392 Yearbook (2014).
+
+7. The best visualization I have seen is located here:
+https://www.theguardian.com/environment/interactive/2013/may/14/alaska-villages-frontline-global-warming).
+It is an interactive web map visualization that uses d3.js to display the relationship
+between various factors such as income / population and median income, as well
+as extraneous data on age distribution, for each province.
+I hope that I can make a similar visualization by the end of the course.
+
+8. The worst visualization I've seen is the depiction of narcotic seizure data
+in the Iranian Statistical Yearbook. I believe it is ineffective
+at communicating the extent of the opium crisis in Iran. I hope to utilize material
+I learn in this course to creative an effective & interactive visualization
+that will draw awareness to this issue.
+
+9. I do not believe my programming skills stack up to those of graduate CS
+students, so would estimate I am in 10th percentile of students in the course.
+
+10. I completed a math minor in Spring 2017, although am not particularly
+skilled in any subject area. I believe my math skills are better than my
+programming skills, so would wager I am in the 30th percentile.
+
+11. Yes to both. I have used version control before in group projects for
+CSC 335, 337, and 460.
+
+12. The only version control I have experience with is Git, which I utilized
+the courses listed in #11.
+
+13. Similar answer as #11 and #12; I began using GitHub at the same time as Git.
+
+14. I recently learned about the existence of Age of Empires IV, which was
+announced 2 days ago after a hiatus of over a decade. I grew up playing AOE I -
+III, and never thought I would live to see another sequel to the series.

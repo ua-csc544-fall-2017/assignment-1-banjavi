@@ -10,7 +10,7 @@ Unfortunately, this visualization did not meet my expectations. It did not
 convey the severity of the drug epidemic in Iran, as I wish it would have. It is
 my hope that the concepts covered in this course, specifically d3.js, will help
 me create an interactive visualization displaying the relationship between narcotic
-seizures and variables such as population, immigration, income, etc., in each
+seizures and variables such as population, immigration, income, etc., for each
 Ostan of Iran.
 
 2. I think/hope I will learn about interactive visualizations, linked views,
@@ -57,7 +57,7 @@ programming skills, so would wager I am in the 20th percentile.
 11. Yes to both. I have used version control before in group projects for
 CSC 335, 337, and 460.
 
-12. The only version control I have experience with is Git, which I utilized
+12. The only version control I have experience with is Git, which I utilized in
 the courses listed in #11.
 
 13. Similar answer as #11 and #12; I began using GitHub at the same time as Git.

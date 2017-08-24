@@ -30,7 +30,7 @@ Yearbook; specifically, the Population and the Judicial Affairs sections. I used
 data and tables that contained for each of the 31 Ostans: (1) the amount of
 narcotics seized in kg (narcotics were divided amongst several categories, such as
 Heroin or Opium), and (2) the number of immigrants to that Ostan. The data came from the
-1392 Yearbook (2014).
+1392 Yearbook (2014), and R was the primary tool I used.
 
 7. The best visualization I have seen is located here:
 https://www.theguardian.com/environment/interactive/2013/may/14/alaska-villages-frontline-global-warming

@@ -16,7 +16,7 @@ Ostan of Iran.
 2. I think/hope I will learn about interactive visualizations, linked views,
 web maps, d3.js, and the fundamental concepts beneath data visualization.
 
-3. Java, Python, Javascript, PHP.
+3. Java, Python, Javascript, PHP, CSS, HTML.
 
 4. Java.
 
